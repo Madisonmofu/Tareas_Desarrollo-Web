@@ -1,2 +1,3 @@
 # clase 25072020 TEST
-Proyecto correspondiente a la clase 25 de Julio 2020
+La tarea con estilos css se encuentra en la  rama 25072020
+Proyecto correspondiente a la lase 25 de Julio 
